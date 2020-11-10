@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'G-SOA BOT☄'; 
+const BotName = 'G-SOA BOT'; 
 const instagram = 'https://instagram.com/masge_24'; 
 const telegram = 'https://t.me/Mz.G-SOA'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
